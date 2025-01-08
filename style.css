@@ -1,0 +1,11 @@
+.normal {
+    color: green;
+}
+
+.underweight {
+    color: red;
+}
+
+.overweight {
+    color: darkblue;
+}
